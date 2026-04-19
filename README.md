@@ -1,2 +1,3 @@
 # Data-Fundamentals-research-assignment-
 Assignment is in relation to understanding of data concepts, description of all the concepts used/found in data space.
+Through this assignment, I have built a solid foundation in data architecture by exploring everything from standard databases to complex data warehouses and lakes. I’ve also mastered the essential technical workflows, such as the ETL process and the role of various data storage formats, which are critical for managing information effectively.Beyond the technical basics, I’ve delved into the rapidly changing world of AI, machine learning, and data ethics, which has provided me with the professional vocabulary and frameworks I need to start my career in data analytics. 
